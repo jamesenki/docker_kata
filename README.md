@@ -1,2 +1,2 @@
 # docker_kata
-For the Docker Kata
+For the Docker Kata Reset on Personal Machine
